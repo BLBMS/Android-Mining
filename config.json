@@ -18,11 +18,11 @@
     "time-limit": 2400
     }
   ],
-  "user": "RMHY5CQBAMRhtirgwtsxv6GZT512SYs4wc.BLB",
+  "user": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xxx",
   "algo": "verus",
   "threads": 8,
   "cpu-priority": 1,
   "retry-pause": 5,
-  "api-allow": "192.168.100.90/198",
-  "api-bind": "0.0.0.0:4068"
+  "api-allow": "xxx.xxx.xxx.xxx/xxx",
+  "api-bind": "xxx.xxx.xxx.xxx:xxxx"
 }
